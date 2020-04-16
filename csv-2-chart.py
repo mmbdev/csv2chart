@@ -158,4 +158,4 @@ fig.write_image('{}/{}.png'.format(diagramm_path, os.path.basename(file_path)))
 #Draw Diagramm
 fig.show()
 
-# input("Beliebige Taste zum Schliessen drucken")
+# input("Press some Key to exit")
