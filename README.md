@@ -6,6 +6,5 @@ Following folder strcut:
 
  - Input Data: example.csv
  - Compiling:  pandas and plotly
- - Output:     html-graph and options to save some special snaps
-               Diagramme\
+ - Output:     html-graph and options to save some special snaps in: Diagramme\
 
